@@ -1,0 +1,20 @@
+PODS:
+  - Hero (1.6.2)
+  - TinyConstraints (4.0.2)
+
+DEPENDENCIES:
+  - Hero
+  - TinyConstraints
+
+SPEC REPOS:
+  trunk:
+    - Hero
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Hero: c69009dbc9e2f0472e081adc644dba05fcedae72
+  TinyConstraints: 7b7ccc0c485bb3bb47082138ff28bc33cd49897f
+
+PODFILE CHECKSUM: a2c422a8387548342b1f43a3114168818689e84c
+
+COCOAPODS: 1.11.3
